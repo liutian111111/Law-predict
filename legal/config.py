@@ -1,0 +1,11 @@
+train_file_base = './data/new_data_train_cuted_'
+test_file_base = './data/new_data_test_cuted_'
+num_epoch = 70
+batch_size = 128
+word_num = 26883
+word_hidden = 200
+hid_size = 256
+num_accu = 130
+num_law = 118
+num_term = 11
+seq_len = 512
